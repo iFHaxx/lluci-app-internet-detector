@@ -1,0 +1,1 @@
+# lluci-app-internet-detector
